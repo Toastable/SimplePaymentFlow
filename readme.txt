@@ -1,0 +1,2 @@
+To run the solution first you need to run the API and wait for it to start up using a tool like Visual Studio/Visual Studio Code or just by using dot net run via the dot net CLI. 
+Secondly you need to run ng serve when in the "simple-payment-flow" and then go to the link provided by the angular runtime in the console.
